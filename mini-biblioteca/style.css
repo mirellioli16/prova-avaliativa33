@@ -1,0 +1,42 @@
+ body {
+  justify-content: center;
+  width: 350%;
+  padding: 10px;
+  background : #d4abc8;
+  margin: 0 auto;
+  text-align: center;
+  
+}
+
+
+
+.contaides{
+
+      justify-content: center;
+      width: 25%;
+      padding: 25px;
+      background-color: rgb(197, 2, 132);
+      text-align: center;
+
+}
+
+
+.mirelli{
+
+      justify-content: center;
+      width: 20%;
+      padding: 20px;
+      background-color: rgb(165, 143, 158);
+      text-align: center;
+      max-width: 300px;
+      margin: 0 auto 100px;
+      padding: 100px;
+}
+
+.livro{
+
+      margin: 50px auto;
+      text-align: center;
+      color: blueviolet;
+
+}
